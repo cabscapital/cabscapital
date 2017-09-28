@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 include 'controladorCorreo.php';
 include 'db_connect.php';
 require 'PHPMailer/PHPMailerAutoload.php';
@@ -16,7 +16,7 @@ class NewEmailService {
 		$mail->isSMTP();
 		$mail->SMTPAuth = true;
 		$mail->Host = 'smtp.gmail.com';
-		$mail->Username = ''; //correo desde el cual se enviara la información
+		$mail->Username = 'main@cabscapital.com'; //correo desde el cual se enviara la información
 		$mail->Password = EMAIL_PASSWORD;
 		//Seguir el link con la cuenta indicada
 		//https://www.google.com/settings/security/lesssecureapps

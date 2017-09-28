@@ -1,10 +1,10 @@
-<?php
+﻿<?php
 session_start();
 ?>
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+  <meta name="google-site-verification" content="X_A5Fw53AeGCZubA45s13NA8wVDLrWU2VFSygTWJ1oU" />  <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CABS Capital | Inicio</title>

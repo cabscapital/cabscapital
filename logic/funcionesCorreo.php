@@ -16,7 +16,7 @@ class NewEmailService {
 		$mail->isSMTP();
 		$mail->SMTPAuth = true;
 		$mail->Host = 'smtp.gmail.com';
-		$mail->Username = 'main@cabscapital.com'; //correo desde el cual se enviara la información
+		$mail->Username = 'cabscapital@gmail.com'; //correo desde el cual se enviara la información
 		$mail->Password = EMAIL_PASSWORD;
 		//Seguir el link con la cuenta indicada
 		//https://www.google.com/settings/security/lesssecureapps
@@ -30,8 +30,8 @@ class NewEmailService {
 		$asunto = "Cabs Capital";
 		/*============================================================*/
 		/** Configuracion del correo a Enviar*/
-		$mail->setFrom('');// Remitente
-		$mail->addAddress('');// Destinatario
+		$mail->setFrom('cabscapital@gmail.com');// Remitente
+		$mail->addAddress('main@cabscapital.com');// Destinatario
 
 		$mail->Subject = $asunto;
 		$mail->Body =

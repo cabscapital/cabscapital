@@ -1,3 +1,3 @@
 ﻿<?php
-define('EMAIL_PASSWORD', 'SemMolto*100')
+define('EMAIL_PASSWORD', 'Humitos2')
 ?>

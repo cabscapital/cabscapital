@@ -3,7 +3,7 @@ session_start();
 include("../logic/user_functions.php");
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-  $parm1 = "";
+  $parm1 = "0";
   $parm2 = $_POST["nombres"];
   $parm3 = $_POST["apellidos"];
   $parm4 = $_POST["fecha"];

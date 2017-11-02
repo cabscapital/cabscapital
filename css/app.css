@@ -139,6 +139,7 @@
   background: url("../img/trading.jpeg") 50% no-repeat;
   background-size: cover;
   height: 60vh;
+  opacity: 0.95;
   text-align: center;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -153,7 +154,7 @@
 
 .hero-section .hero-section-text {
   color: #fefefe;
-  text-shadow: 1px 1px 2px #000000;
+  text-shadow: 2px 2px 2px #000000;
 }
 
 /* MARKETING SECTION INDEX */

@@ -43,6 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CABS Capital | Registro</title>
+    <link rel="icon" href="../img/logo.jpg">
     <link rel="stylesheet" href="../css/foundation.css">
     <link rel="stylesheet" href="../css/app.css">
     <link rel="stylesheet" href="../css/min.foundation.css">
@@ -58,11 +59,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <div id="topbar-responsive" class="topbar-responsive-links">
         <div class="top-bar-right">
           <ul class="menu simple vertical medium-horizontal">
-            <li><a href="../entrenamiento.php">Entrenamiento</a></li>
             <li><a href="../faqs.php">Preguntas Frecuentes</a></li>
             <li>
               <a href="../contacto.php"><button type="button" class="button hollow topbar-responsive-button">Contacto</button></a>
             </li>
+            <li><a href="register.php">Registrarse</a></li>
             <li><a href="index.php">Iniciar Sesión</a></li>
           </ul>
         </div>

@@ -34,6 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CABS Capital | Contacto</title>
+    <link rel="icon" href="img/logo.jpg">
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -50,7 +51,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <div id="topbar-responsive" class="topbar-responsive-links">
         <div class="top-bar-right">
           <ul class="menu simple vertical medium-horizontal">
-            <li><a href="entrenamiento.php">Entrenamiento</a></li>
             <li><a href="faqs.php">Preguntas Frecuentes</a></li>
             <li>
               <a href="contacto.php"><button type="button" class="button hollow topbar-responsive-button">Contacto</button></a>
@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <br />
         <p>
           <i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i>
-          <a href="mailto:cursos@cabscapital.com">cursos@cabscapital.com</a>
+          <a href="mailto:main@cabscapital.com">main@cabscapital.com</a>
         </p>
         <p><strong>Sí prefieres, dejanos tu mensaje ahora</strong></p>
       </div>

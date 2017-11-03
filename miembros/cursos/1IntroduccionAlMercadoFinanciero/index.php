@@ -67,10 +67,27 @@ session_start();
           <div>
             <br />
             <h5>&nbsp¿Qué es el Mercado?</h5>
-            <p>cvgg</p>
+            <p>El mercado es el lugar donde se encuentran los oferentes y demandantes de productos y servicios de todo tipo. Desde alimentos como el pan, la naranja, el café o el trigo, pasando por materias primas como el petróleo, energía eléctrica, madera o el oro hasta productos de financiamiento como los créditos, bonos, acciones y en mercados más desarrollados, productos de cobertura como lo son los derivados de índices, opciones, swaps entre otros y hasta información o servicios de información.</p>
+            <p>En conclusión, el mercado es el lugar (intangible) que permite a oferentes y demandantes tranzar toda clase de productos y servicios que se presten para ello, en el cual usualmente como elemento de intercambio de valor, se utiliza el dinero por sus amplias características de cambio.</p>
+            <p>Es importante resaltar que cuando se habla de mercado en este contexto, se hace referencia al mercado en general, no específicamente a un supermercado, plaza de mercado, mercado de valores u otros. Ya que los mencionados, hacen parte del mercado y corresponde a ellos una clasificación dentro del mercado en general.</p>
+            <p>Para fines de este curso, nos referiremos únicamente al mercado financiero, donde se tranzan títulos valores que permiten acceder a diferentes clases de derechos según sea la naturaleza del contrato tranzado.</p>
             <hr />
             <h5>&nbspTipos de Mercado</h5>
-            <p></p>
+            <p>El mercado financiero, es susceptible a ser clasificado de diferentes maneras; ya sea haciéndolo por los activos tranzados, por el originador del producto o por la plaza en la que es tranzado. A continuación</p>
+            <ul>
+              <li>Clasificación Por Activos</li>
+              <ul>
+                <li>Mercado Monetario</li>
+                <p>Este hace referencia al mercado donde se negocian depósitos bancarios, letras del tesoro o deuda corporativa de alta liquidez y usualmente de bajo riesgo en términos que suelen darse para corto plazo, lo cual fomenta su liquidez. Los principales participantes en este mercado son grandes instituciones financieras y departamentos de finanzas de diferentes países.</p>
+                <p>Las negociaciones suelen hacerse directamente entre las partes o a través de intermediarios especializados.</p>
+                <li>Mercado de Capitales</li>
+                <p>Es el mercado en el que se encuentran por primera vez los demandantes de capital, con los oferentes de capital para la negociación de contratos que son emitidos en este mercado a diferentes plazos, aunque usualmente son a mediano y largo plazo.</p>
+                <p>Los principales participantes son las empresas como emisoras de deuda y las personas, fondos de inversión u otros como oferentes de liquidez. En ocasiones, existen intermediarios como entidades bancarias u otros, que permiten a los ahorradores acceder al mercado de capitales. </p>
+                <li>Mercado de Valores</li>
+              </ul>
+              <li>Clasificación Por Originador</li>
+              <li>Clasificación Por Plaza</li>
+            </ul>
             <hr />
             <h5>&nbspAgentes del Mercado</h5>
             <p></p>

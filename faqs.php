@@ -107,7 +107,7 @@ session_start();
       <div class="wrap row small-up-1 medium-up-3">
         <div class="column"></div>
         <div class="column">
-          <p align="center"><small>© 2017 – CABS CAPITAL S.A.S.<br />Todos los derechos reservados.<br />No brindamos consejo ni asesoría de inversión.</small></p>
+          <p align="center"><small>© 2017 – CABS CAPITAL Inc.<br />Todos los derechos reservados.<br />No brindamos consejo ni asesoría de inversión.</small></p>
         </div>
         <div class="column"></div>
       </div>

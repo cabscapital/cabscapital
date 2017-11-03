@@ -8,7 +8,7 @@ session_start();
     ?>
       <script type="text/javascript">
         alert("Acceso denegado, debe iniciar sesión");
-        window.location.href='../index.php'; 
+        window.location.href='../../index.php'; 
       </script> 
     <?php
   }
@@ -18,7 +18,7 @@ session_start();
     ?>
     <script type='text/javascript'>
       alert('Su sesión ha caducado');
-      window.location.href='../index.php'; 
+      window.location.href='../../index.php'; 
     </script>             
     <?php
     exit;
@@ -31,9 +31,9 @@ session_start();
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CABS Capital | Cursos</title>
-    <link rel="icon" href="../../img/logo.jpg">
-    <link rel="stylesheet" href="../../css/foundation.css">
-    <link rel="stylesheet" href="../../css/app.css">
+    <link rel="icon" href="../../../img/logo.jpg">
+    <link rel="stylesheet" href="../../../css/foundation.css">
+    <link rel="stylesheet" href="../../../css/app.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
@@ -48,8 +48,8 @@ session_start();
       <div id="topbar-responsive" class="topbar-responsive-links">
         <div class="top-bar-right">
           <ul class="menu simple vertical medium-horizontal">
-            <li><a href="Blog/index.php">Blog</a></li>
-            <li><a href="../../logic/logout.php">Cerrar Sesión</a></li>
+            <li><a href="index.php">Blog</a></li>
+            <li><a href="../../../logic/logout.php">Cerrar Sesión</a></li>
           </ul>
         </div>
       </div>
@@ -62,9 +62,9 @@ session_start();
       <div class="column">
         <div class="people-you-might-know">
           <div class="add-people-header">
-            <h6 class="header-title">
-              Plan de Estudios: Trader de Futuros Sobre Índices
-            </h6>
+            <h5 class="header-title">
+              Blog
+            </h5>
           </div>
           <div class="row add-people-section">
             <div class="small-12 medium-12 columns about-people">
@@ -180,9 +180,9 @@ session_start();
       </div>
     </footer>
     
-    <script src="../../js/vendor/jquery.js"></script>
-    <script src="../../js/vendor/what-input.js"></script>
-    <script src="../../js/vendor/foundation.js"></script>
-    <script src="../../js/app.js"></script>
+    <script src="../../../js/vendor/jquery.js"></script>
+    <script src="../../../js/vendor/what-input.js"></script>
+    <script src="../../../js/vendor/foundation.js"></script>
+    <script src="../../../js/app.js"></script>
   </body>
 </html>

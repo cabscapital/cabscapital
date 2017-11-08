@@ -34,13 +34,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CABS Capital | Contacto</title>
-    <link rel="icon" href="img/logo.jpg">
-    <link rel="stylesheet" href="css/foundation.css">
-    <link rel="stylesheet" href="css/app.css">
+    <link rel="icon" href="https://www.cabscapital.com/img/logo.jpg">
+    <link rel="stylesheet" href="https://www.cabscapital.com/css/foundation.css">
+    <link rel="stylesheet" href="https://www.cabscapital.com/css/app.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
-  <body>
-    
+  
+  <body>   
     <nav class="top-bar topbar-responsive">
       <div class="top-bar-title">
         <span data-responsive-toggle="topbar-responsive" data-hide-for="medium">

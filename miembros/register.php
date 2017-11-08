@@ -43,12 +43,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CABS Capital | Registro</title>
-    <link rel="icon" href="../img/logo.jpg">
-    <link rel="stylesheet" href="../css/foundation.css">
-    <link rel="stylesheet" href="../css/app.css">
-    <link rel="stylesheet" href="../css/min.foundation.css">
+    <link rel="icon" href="https://www.cabscapital.com/img/logo.jpg">
+    <link rel="stylesheet" href="https://www.cabscapital.com/css/foundation.css">
+    <link rel="stylesheet" href="https://www.cabscapital.com/css/app.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
   </head>
   <body>
     
@@ -346,9 +344,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       </div>
     </footer>
     
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
+    <script src="https://www.cabscapital.com/js/vendor/jquery.js"></script>
+    <script src="https://www.cabscapital.com/js/vendor/what-input.js"></script>
+    <script src="https://www.cabscapital.com/js/vendor/foundation.js"></script>
+    <script src="https://www.cabscapital.com/js/app.js"></script>
   </body>
 </html>

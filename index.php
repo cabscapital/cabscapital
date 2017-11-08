@@ -70,7 +70,7 @@ session_start();
         </div>
       </div>
     </section>
-
+<!--
     <div class="row">
       <div class="large-12 columns">
         <h3 align="center">Genera Ingresos Por:</h3>
@@ -93,7 +93,7 @@ session_start();
 
     <br>
     <br>
-<!--
+
     <div class="row">
       <div class="large-12 columns">
         <h3 align="center">Tipos de Programas</h3>

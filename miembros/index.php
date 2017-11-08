@@ -71,9 +71,9 @@ session_start();
       </div>
     </footer>
     
-    <script src="../js/vendor/jquery.js"></script>
-    <script src="../js/vendor/what-input.js"></script>
-    <script src="../js/vendor/foundation.js"></script>
-    <script src="../js/app.js"></script>
+    <script src="https://www.cabscapital.com/js/vendor/jquery.js"></script>
+    <script src="https://www.cabscapital.com/js/vendor/what-input.js"></script>
+    <script src="https://www.cabscapital.com/js/vendor/foundation.js"></script>
+    <script src="https://www.cabscapital.com/js/app.js"></script>
   </body>
 </html>

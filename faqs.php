@@ -42,6 +42,21 @@ session_start();
         <br />
         <h4 align="center">Si no ves la respuesta a tu pregunta, no dudes en preguntarnos.</h4>
         <hr />
+        <div class="holy-grail-middle">
+          <h5>¿Cuanto cuesta?</h5>
+          <p>El acceso por 1 año tiene un costo de USD $ 450.</p>
+          <br>
+          <h5>¿Qué podré aprender?</h5>
+          <p>Desarrollamos cursos rápidos con conocimientos profesionales sobre diferentes oportunidades de inversión o actividades de crecimiento financiero a ser explotadas y te ayudamos a acceder a ellas. Incorporamos los mercados emergentes y no regulados acompañandolos de conocimientos profesionales y respaldo que eviten que caigas en una estafa, recuerda que nos interesa que gestiones dinero, no queremos que este se pierda.</p>
+          <br>
+          <h5>¿Qué diferencia hay con otros cursos de negocios y finanzas?</h5>
+          <p>Te ofrecemos un costo fijo por acceso a todos los cursos que vamos desarrollando, haciendo que valga la pena desde el primero. Otros lugares buscan vender uno o muchos cursos costosos sin preocuparse realmente por tu aprendizaje, a nosotros nos interesa que aprendas y gestiones el dinero de fondos de capital aliados y que esto sea rentable para ti.</p>
+          <br>
+          <h5>¿Qué conocimientos previos necesito?</h5>
+          <p>Niguno, ya que buscamos poner conocimiento financiero profesional al alcance de todos.</p>
+        </div>
+<!--          
+        
         <h5>¿Tengo otras opciones aparte de ser 100% financiado?</h5>
         <br />
         <div>
@@ -97,6 +112,7 @@ session_start();
         <div>
           <p>No decimos que operar por tu cuenta sea malo, sin embargo, nuestra capacidad patrimonial nos permite acceder a diferentes tipos de descuentos y beneficios que te pueden ser de ayuda. Además, el operar con mayor capital pero un riesgo controlado, puede ayudarte a acceder a activos de alto valor, multiplicar tus beneficios y adicionalmente tener mayor poder de mercado.</p>
         </div>
+-->        
       </div>
     </div>
    

@@ -63,7 +63,7 @@ session_start();
         <div class="people-you-might-know">
           <div class="add-people-header">
             <h6 class="header-title">
-              Plan de Estudios: Trader de Futuros Sobre Índices
+              Trading de Futuros Sobre Índices
             </h6>
           </div>
           <div class="row add-people-section">
@@ -82,6 +82,7 @@ session_start();
               </div>    
             </div>
           </div>
+          <!--
           <div class="row add-people-section">
             <div class="small-12 medium-12 columns about-people">
               <div class="about-people-author">
@@ -162,6 +163,219 @@ session_start();
               </div>    
             </div>
           </div>
+        -->
+        </div>
+        <br>
+        <div class="people-you-might-know">
+          <div class="add-people-header">
+            <h6 class="header-title">
+              Inversionista en Criptodivisas
+            </h6>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="1IntroduccionAlMercadoFinanciero/index.php">
+                  Curso de Introducción a las Criptodivisas
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                 Conceptos y bases de la "Blockchain", Bitcoin y las criptodivisas.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <!--
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="2FundamentosDeTrading/index.php">
+                  Curso de Fundamentos del Trading
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Teoría de trading, tipos de gráficos, tipos de órdenes y estructura de los trades.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="3AnalisisTecnicoBasico/index.php">
+                  Curso de Análisis Técnico Básico
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Movimientos básicos del mercado, impulso, patrones de reversa, herramientas básicas.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="4PsicologiaDelTrading/index.php">
+                  Curso de Psicología y Plan del Trading
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Control de emociones, disciplina, consistencia, transición a real y gestión del riesgo.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="5ConfigurarNTComoPlataforma/index.php">
+                  Configuración de NinjaTrader Como Plataforma
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Instalación, configuración inicial, renovación de contratos, y personalización.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="6IntroduccionFuturosIndicesEmini/index.php">
+                  Curso Introductorio a Futuros & E-minis
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Teoría de derivados financieros, futuros, contratos e-minis y normatividad.
+                </p>
+              </div>    
+            </div>
+          </div>
+        -->
+        </div>
+        <br>
+        <div class="people-you-might-know">
+          <div class="add-people-header">
+            <h6 class="header-title">
+              Oportunidades de Inversión en Crowdfunding
+            </h6>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="1IntroduccionAlMercadoFinanciero/index.php">
+                  Curso de Introducción al Crowdfunding
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                 Conceptos y bases del Crowdfunding ,usos y mercados activos para la inversión colectiva.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <!--
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="2FundamentosDeTrading/index.php">
+                  Curso de Fundamentos del Trading
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Teoría de trading, tipos de gráficos, tipos de órdenes y estructura de los trades.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="3AnalisisTecnicoBasico/index.php">
+                  Curso de Análisis Técnico Básico
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Movimientos básicos del mercado, impulso, patrones de reversa, herramientas básicas.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="4PsicologiaDelTrading/index.php">
+                  Curso de Psicología y Plan del Trading
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Control de emociones, disciplina, consistencia, transición a real y gestión del riesgo.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="5ConfigurarNTComoPlataforma/index.php">
+                  Configuración de NinjaTrader Como Plataforma
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Instalación, configuración inicial, renovación de contratos, y personalización.
+                </p>
+              </div>    
+            </div>
+          </div>
+          <div class="row add-people-section">
+            <div class="small-12 medium-12 columns about-people">
+              <div class="about-people-author">
+                <p class="author-name">
+                  <a href="6IntroduccionFuturosIndicesEmini/index.php">
+                  Curso Introductorio a Futuros & E-minis
+                  </a>
+                </p>
+                <p class="author-location">
+                </p>
+                <p class="author-mutual">
+                  Teoría de derivados financieros, futuros, contratos e-minis y normatividad.
+                </p>
+              </div>    
+            </div>
+          </div>
+        -->
         </div>
       </div>
 

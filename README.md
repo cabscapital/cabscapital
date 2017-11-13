@@ -1,2 +1,2 @@
 # cabscapital
-Funding Traders
+Financial Inteligence

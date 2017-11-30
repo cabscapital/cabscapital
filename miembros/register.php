@@ -77,7 +77,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
 
  <div class="row">
-  <div class="column small-12 medium-8" align="center">
+  <div class="column" align="center">
 
     <form class="callout" action="register.php" method="post"  >
       <div class="form-icons">

@@ -80,7 +80,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
     <div class="row">
-      <div class="column">
+      <div class="column small-12 medium-6" align="center">
         <form class="contact-us-form" action="contacto.php" method="post">
           
           <div class="floated-label-wrapper">

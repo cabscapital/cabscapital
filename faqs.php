@@ -44,7 +44,7 @@ session_start();
         <hr />
         <div class="holy-grail-middle">
           <h5>¿Cuanto cuesta?</h5>
-          <p>El acceso por 1 año tiene un costo de USD $ 450.</p>
+          <p>El acceso por 2 años tiene un costo de USD $ 450.</p>
           <br>
           <h5>¿Qué podré aprender?</h5>
           <p>Desarrollamos cursos rápidos con conocimientos profesionales sobre diferentes oportunidades de inversión o actividades de crecimiento financiero a ser explotadas y te ayudamos a acceder a ellas. Incorporamos los mercados emergentes y no regulados acompañandolos de conocimientos profesionales y respaldo que eviten que caigas en una estafa, recuerda que nos interesa que gestiones dinero, no queremos que este se pierda.</p>

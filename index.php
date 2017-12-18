@@ -56,7 +56,7 @@ session_start();
         <div class="columns">
           <i class="fa fa-book" aria-hidden="true"></i>
           <h4 class="marketing-site-three-up-title">Aprende</h4>
-          <p class="marketing-site-three-up-desc">Tenemos programas en línea que te permitiran aprender desde cero a generar y gestionar dinero acordes a los negocios que patrocinamos.</p>
+          <p class="marketing-site-three-up-desc">Recomendamos contenido en línea que te permitira aprender desde cero a generar y gestionar dinero acordes a los negocios que patrocinamos.</p>
         </div>
         <div class="columns">
           <i class="fa fa-check-square-o" aria-hidden="true"></i>
